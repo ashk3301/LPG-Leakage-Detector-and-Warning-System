@@ -81,7 +81,7 @@ void loop()
   }
   
   Serial.println("");
-  delay(1000); // wait 2s for next reading
+  delay(1000); // wait 1s for next reading
 }
 void updateSerial()
 {
